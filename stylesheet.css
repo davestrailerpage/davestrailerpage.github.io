@@ -1,0 +1,15 @@
+table {
+	border: none;
+	margin-left: auto;
+    margin-right: auto;
+	}
+tr {
+	font-family: Verdana;
+	font-size: 15px;
+	}
+td {
+	padding: 2px;
+	}
+img {
+	border: none;
+	}
