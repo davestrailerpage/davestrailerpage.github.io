@@ -5,6 +5,11 @@
     <link>https://www.davestrailerpage.co.uk</link>
 	<description>Direct links to the latest movie trailers...</description>	
 	<item>
+       <title>2nd Oct: Wolf</title>
+       <link>https://www.davestrailerpage.co.uk</link> 
+       <description>new trailers</description>
+    </item>
+	<item>
        <title>1st Oct: Detention, South of Heaven</title>
        <link>https://www.davestrailerpage.co.uk</link> 
        <description>new trailers</description>
@@ -74,70 +79,5 @@
        <link>https://www.davestrailerpage.co.uk</link> 
        <description>new trailers</description>
     </item>
-	<item>
-       <title>31st Aug: No Time To Die, Copshop</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>27th Aug: Come From Away, Mayday</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>24th Aug: Spider-Man: No Way Home</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>21st Aug: The Madness Inside Me</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>20th Aug: Eternals</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>18th Aug: The Colony, Together</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>13th Aug: Prisoners of the Ghostland</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>12th Aug: A Journal For Jordan, Lone Wolf</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>11th Aug: Lamb</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>10th Aug: The Girl Who Got Away</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>6th Aug: Cry Macho, Demonic, Yakuza Princess</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>4th Aug: House of Gucci</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>3rd Aug: Venom: Let There Be Carnage</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item
 	</channel>
 </rss> 
