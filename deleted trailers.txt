@@ -1,0 +1,113 @@
+5-April-2022: While randomly updating formatting on some old trailers I noticed that Apple seem to have culled a large number of their older m480 quality trailers from independent studios / smaller studios (Kino, IFC). Every single /independent/**_m480.mov trailer on the A page is affected. I checked some of the major studio m480 files and they all seem fine. 
+
+<tr>
+	<td><ul><li><b>The Agronomist (Documentary)</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0377031/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/the_agronomist/the_agronomist_m480.mov">SD</a>
+		</ul>
+	  </ul></td>
+</tr>
+
+<tr>	
+	<td><ul><li><b>Amen</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0280653/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/amen/amen_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>American Chai</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0264355/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/american_chai/american_chai_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Appleseed (2004)</b>
+	    <ul><li><a href="http://www.imdb.com/title/tt0401233/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/appleseed/appleseed_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>April's Shower</b>
+	    <ul><li><a href="http://www.imdb.com/title/tt0325007/" target="_blank">IMDB</a>
+			<li><b>Trailer 1</b> <a href="https://trailers.apple.com/movies/independent/aprils_shower/aprils_shower_m480.mov">SD</a>
+			<li><b>Trailer 2</b> <a href="https://trailers.apple.com/movies/independent/aprils_shower/aprils_shower-tlr2_h640w.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>The Aristocrats (2005)</b> 
+		<ul><li><a href="http://www.imdb.com/title/tt0436078/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/the_aristocrats/the_aristocrats_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Assault on Precinct 13 (2005)</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0398712/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/assaultonprecinct13/assaultonprecinct13_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Assisted Living</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0361322/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/assisted_living/assisted_living_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Atanarjuat - The Fast Runner (Documentary)</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0285441/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/atanarjuat/atanarjuat_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>The Ninth Day</b>
+		<ul><li><a href="http://www.imdb.com/title/tt4852638/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/the_ninth_day/the_ninth_day_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>No Direction Home: Bob Dylan (Documentary)</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0367555/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/us/apple/bob_dylan/no_direction_home_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Nobody Knows</b>
+		<ul><li><a href="http://www.ifcfilms.com/ifcfilms?CAT0=3127&CAT1=6106&SHID=22784&AID=9432&CLR=red&BCLR=" target="_blank">Official Website</a>
+			<li><a href="https://trailers.apple.com/movies/independent/nobody_knows/nobody_knows_m480.mov">Trailer</a> SD 
+	  </ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Noel</b>
+		<ul><li><a href="https://trailers.apple.com/trailers/independent/noel.html" target="_blank">Official Website</a>
+			<li><a href="https://trailers.apple.com/movies/independent/noel/noel_m480.mov">Trailer</a> SD
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>The Nomi Song (Documentary)</b>
+	    <ul><li><a href="http://www.imdb.com/title/tt0402406/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/the_nomi_song/the_nomi_song_m480.mov">SD</a> SD
+		</ul>
+	</ul></td>
+</tr>
