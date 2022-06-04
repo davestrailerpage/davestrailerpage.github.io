@@ -1,4 +1,4 @@
-5-April-2022: While randomly updating formatting on some old trailers I noticed that Apple seem to have culled a large number of their older m480 quality trailers from independent studios / smaller studios (Kino, IFC). Every single /independent/**_m480.mov trailer on the A page is affected. I checked some of the major studio m480 files and they all seem fine. 
+5-April-2022: While randomly updating formatting on some old trailers I noticed that Apple seem to have culled a large number of their older m480 quality trailers from independent studios / smaller studios (Kino, IFC). Every single /independent/**_m480.mov trailer on the A page is affected. h640w files are 50/50. I checked some of the major studio m480 files and they all seem fine. 
 
 <tr>
 	<td><ul><li><b>The Agronomist (Documentary)</b>
@@ -6,6 +6,30 @@
 			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/the_agronomist/the_agronomist_m480.mov">SD</a>
 		</ul>
 	  </ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Air Guitar Nation</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0799915/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/air_guitar_nation/air_guitar_nation_h640w.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Al Franken: God Spoke</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0799916/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/alfrankengodspoke/alfrankengodspoke_h640w.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>America: Freedom To Facism</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0772153/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/freedom_to_fascism/freedom_to_fascism_h640w.mov">SD</a>
+		</ul>
+	</ul></td>
 </tr>
 
 <tr>	
@@ -42,6 +66,14 @@
 </tr>
 
 <tr>
+	<td><ul><li><b>Arctic Tale</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0488508/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/arctic_tale/arctic_tale_h640w.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
 	<td><ul><li><b>The Aristocrats (2005)</b> 
 		<ul><li><a href="http://www.imdb.com/title/tt0436078/" target="_blank">IMDB</a>
 			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/the_aristocrats/the_aristocrats_m480.mov">SD</a>
@@ -69,6 +101,30 @@
 	<td><ul><li><b>Atanarjuat - The Fast Runner (Documentary)</b>
 		<ul><li><a href="http://www.imdb.com/title/tt0285441/" target="_blank">IMDB</a>
 			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/atanarjuat/atanarjuat_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Aurora Borealis</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0387037/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/aurora_borealis/aurora_borealis_h640w.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Awesome... I Shot That!</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0488953/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/awesomeishotthat/awesomeishotthat_h640w.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Azumi</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0384819/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/azumi/azumi_h640w.mov">SD</a>
 		</ul>
 	</ul></td>
 </tr>
@@ -111,3 +167,52 @@
 		</ul>
 	</ul></td>
 </tr>
+
+<tr>
+	<td><ul><li><b>Unrest</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0453533/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/unrest/unrest_h640w.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Up For Grabs</b>
+	    <ul><li><a href="http://www.imdb.com/title/tt0420356/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/up_for_grabs/up_for_grabs_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Unknown White Male</b>
+	    <ul><li><a href="http://www.imdb.com/title/tt0436864/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/unknownwhitemale/unknownwhitemale_h640w.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>39 Pounds of Love (Documentary)</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0448978/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/39poundsoflove/39poundsoflove_h640w.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>49 Up</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0473434/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/49_up/49_up_h640w.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>13 Tzameti</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0475169/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/13_tzameti/13_tzameti_h640w.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
