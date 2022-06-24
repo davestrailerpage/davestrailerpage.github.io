@@ -130,6 +130,126 @@
 </tr>
 
 <tr>
+	<td><ul><li><b>The Ballad of Jack and Rose</b>
+	    <ul><li><a href="http://www.imdb.com/title/tt0357110/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/theballadofjackandrose/theballadofjackandrose_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+<tr>
+	<td><ul><li><b>Battle of Algiers, The</b>
+	     <ul><li><a href="http://www.rialtopictures.com/battle.html" target="_blank">Official Website</a>
+		 <li><a href="https://trailers.apple.com/movies/independent/thebattleofalgiers/thebattleofalgiers_m480.mov">Trailer</a> SD
+		 </ul>
+	  </ul></td>
+</tr>
+<tr>
+	<td><ul><li><b>The Beat That My Heart Skipped</b>
+		<ul><li><a href="https://www.imdb.com/title/tt0411270/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/thebeatthatmyheartskipped/beatthatmyheartskipped_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+<tr>
+	<td><ul><li><b>The Believer</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0247199/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/the_believer/the_believer_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+<tr>
+	<td><ul><li><b>Benji: Off the Leash!</b>
+	    <ul><li><a href="http://www.imdb.com/title/tt0315273/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/benjiofftheleash/benjiofftheleash_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+<tr>
+	<td><ul><li><b>Better Luck Tomorrow</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0280477/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/better_luck_tomorrow/better_luck_tomorrow_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+<tr>
+	<td><ul><li><b>Big Bad Love</b>
+		<ul><li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/big_bad_love/big_bad_love_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+<tr>
+	<td><ul><li><b>Billabong Odyssey (Documentary)</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0379713/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/billabong_odyssey/billabong_odyssey_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+<tr>
+	<td><ul><li><b>Black Sheep</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0779982/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/black_sheep/black_sheep_h640w.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+<tr>
+	<td><ul><li><b>Blackballed: The Bobby Dukes Story</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0379184/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/blackballed/blackballed_h640w.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+<tr>
+	<td><ul><li><b>Bobby Jones - Stroke of Genius</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0375104/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/bobby_jones/bobby_jones_m480.mov">SD</a>
+		</ul>
+	  </ul></td>
+</tr>
+<tr>
+	<td><ul><li><b>Bomb the System</b>
+	    <ul><li><a href="http://www.imdb.com/title/tt0337585/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/bomb_the_system/bomb_the_system_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+<tr>
+	<td><ul><li><b>Bridge, The</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0799954/" target="_blank">IMDB</a>
+			<li><a href="https://trailers.apple.com/movies/independent/the_bridge/the_bridge_h640w.mov">Trailer</a> SD
+		</ul>
+	</ul></td>
+</tr>
+<tr>
+	<td><ul><li><b>Broadway The Golden Age (Documentary)</b>
+	     <ul><li><a href="http://www.broadwaythemovie.com/" target="_blank">Official Website</a>
+			 <li><a href="https://trailers.apple.com/movies/independent/broadwaythegoldenage/broadwaythegoldenage_m480.mov">Trailer</a> SD
+		 </ul>
+	  </ul></td>
+</tr>
+<tr>
+	<td><ul><li><b>Brooklyn Rules</b>
+		<ul><li><a href="http://www.brooklynrulesmovie.com/" target="_blank">Official Website</a>
+			<li><a href="https://trailers.apple.com/movies/independent/brooklyn_rules/brooklyn_rules_h640w.mov">Trailer</a> SD
+		</ul>
+	</ul></td>
+</tr>
+<tr>
+	<td><ul><li><b>Bubba Ho-Tep</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0281686/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/bubba_ho-tep/bubba_ho-tep_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+<tr>
+	<td><ul><li><b>The Burial Society</b>
+	    <ul><li><a href="http://www.imdb.com/title/tt0312510/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/the_burial_society/the_burial_society_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+
+<tr>
 	<td><ul><li><b>The Ninth Day</b>
 		<ul><li><a href="http://www.imdb.com/title/tt4852638/" target="_blank">IMDB</a>
 			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/the_ninth_day/the_ninth_day_m480.mov">SD</a>
