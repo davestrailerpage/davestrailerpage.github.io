@@ -248,7 +248,155 @@
 	</ul></td>
 </tr>
 
+<tr>
+	<td><ul><li><b>Camp</b></li>
+		<ul><li><a href="http://www.ifcfilms.com/0,,CAT0-3127-CAT1-3706-CLR-red-BCLR-CC0000-SHID-19203-,00.html" target="_blank">Official Website</a>
+			<li><b>Trailer <a href="https://trailers.apple.com/movies/independent/camp/camp_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
 
+<tr>
+	<td><ul><li><b>Capturing the Friedmans (Documentary)</b></li>
+		<ul><li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/capturingthefriedmans/capturingthefriedmans_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Civic Duty</b>
+		<ul><li><a href="http://www.civicdutythemovie.com/">Official Website</a>
+			<li><a href="https://trailers.apple.com/movies/independent/civic_duty/civic_duty_h640w.mov">Trailer</a> SD
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Come Early Morning</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0457308/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/come_early_morning/come_early_morning_h640w.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Crossing the Bridge</b>
+	    <ul><li><a href="http://www.crossingthebridge.de/" target="_blank">Official Website</a>
+			<li><a href="https://trailers.apple.com/movies/independent/crossing_the_bridge/crossing_the_bridge_h640w.mov">Trailer</a> SD
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Calvaire</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0407621/" target="_blank">IMDB</a>
+			<li><a href="https://trailers.apple.com/movies/independent/calvaire/calvaire_h640w.mov">Trailer</a> SD
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>The Chateau</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0283288/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/the_chateau/the_chateau_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Children on their Birthdays</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0283991/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/childrenontheirbirthdays/childrenontheirbirthda_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Chooch</b>
+	     <ul><li><a href="http://www.imdb.com/title/tt0369330/" target="_blank">IMDB</a>
+			 <li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/chooch_the_movie/chooch_the_movie_m480.mov">SD</a>
+		 </ul>
+	  </ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Christmas In The Clouds</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0221074/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/christmasintheclouds/christmasintheclouds_h640w.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Ciao America</b>
+		<Ul><li><a href="http://www.imdb.com/title/tt0275263/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/ciao_america/ciao_america_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Clean (2004)</b>
+	    <ul><li><a href="http://www.imdb.com/title/tt0388838/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/clean/clean_h640w.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Climates</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0498097/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/climates/climates_h640w.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Close Your Eyes</b>
+		<ul><li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/close_your_eyes/close_your_eyes_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Conventioneers</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0455929/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/conventioneers/conventioneers_h640w.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Conversations With Other Women</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0435623/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/conversationswithotherwomen/conversationswithotherwomen_h640w.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>The Corporation (Documentary)</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0379225/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/the_corporation/the_corporation_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Crimson Gold</b>
+		<ul><li><a href="http://www.imdb.com/title/tt0371280/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/crimson_gold/crimson_gold_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
+
+<tr>
+	<td><ul><li><b>Cronicas</b> 
+		<ul><li><a href="http://www.imdb.com/title/tt0382621/" target="_blank">IMDB</a>
+			<li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/cronicas/cronicas_m480.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
 
 <tr>
 	<td><ul><li><b>A Housekeeper (Une femme de ménage)</b></li>
