@@ -3,7 +3,12 @@
   <channel>
     <title>Dave's Trailer Page</title>
     <link>https://www.davestrailerpage.co.uk</link>
-	<description>Direct links to the latest movie trailers...</description>	
+	<description>Direct links to the latest movie trailers...</description>
+	<item>
+       <title>27th April: The Flash, Kandahar</title>
+       <link>https://www.davestrailerpage.co.uk</link> 
+       <description>new trailers</description>
+    </item>
 	<item>
        <title>25th April: Robots, The Equalizer 3</title>
        <link>https://www.davestrailerpage.co.uk</link> 
@@ -76,71 +81,6 @@
     </item>
 	<item>
        <title>29th March: Elemental, Other People's Children</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>24th March: One Day as a Lion</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>23rd March: Renfield</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>22nd March: You Hurt My Feelings</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>21st March: Guy Ritchie's The Covenant, Joy Ride</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>14th March: No Hard Feelings, The Little Mermaid, Paint</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>10th March: The Super Mario Bros. Movie</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>8th March: Wildflower</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>7th March: Ghosted</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>6th March: The Lake</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>4th March: The Year Between, Nefarious</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>3rd March: Somewhere in Queens</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>2nd March: Sisu, Kandahar, The Blackening</title>
-       <link>https://www.davestrailerpage.co.uk</link> 
-       <description>new trailers</description>
-    </item>
-	<item>
-       <title>1st March: Rodeo, Supercell, Mafia Mamma</title>
        <link>https://www.davestrailerpage.co.uk</link> 
        <description>new trailers</description>
     </item>
