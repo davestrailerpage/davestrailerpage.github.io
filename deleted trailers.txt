@@ -501,3 +501,11 @@ Hot Fuzz old trailers
 			
 			Oldboy
 <li><b>Trailer</b> <a href="https://trailers.apple.com/movies/independent/old_boy/old_boy_m480.mov">SD</a>
+
+<tr>
+	<td><ul><li><b>Two Weeks</b>
+		<ul><li><a href="http://www.twoweeksmovie.com/" target="_blank">Official Website</a>
+			<li><b>Trailer</b> <a href="http://a1834.g.akamai.net/7/1834/6694/v0001/mgm2.download.akamai.com/6694/Theatrical/TWOWKS_t_hi.mov">SD</a>
+		</ul>
+	</ul></td>
+</tr>
